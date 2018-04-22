@@ -2,7 +2,7 @@
 
 ### Description
 
-This program emphasizes a simple game of rock, paper, scissors in java. It is a game between the user and the computer. The computer chooses randomly and the user inputs their choice through the keybord. At the end there is a winner declared!
+This program simulates a simple game of rock, paper, scissors in java. It is a game between the user and the computer. The computer chooses randomly and the user inputs their choice through the keybord. At the end there is a winner declared!
 
 ### To Run
 
