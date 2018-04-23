@@ -16,7 +16,11 @@ $ java RockPaperScissors
 
 ### Output
 
-After the user inputs their guess, 'rock', 'paper',  or 'scissors', then the program displays the random choice made by the computer. After the game is over, the program displays the winner. If the answers are the same, then it declares a tie, and the game starts over again until there is a winner. If not, the program displays the winner on the screen.
+After the user inputs their guess, 'rock', 'paper',  or 'scissors', then the program displays the random choice made by the computer. After the game is over, the program displays the winner. 
+
+If the answers are the same, then it declares a tie, and the game starts over again until there is a winner. 
+
+If not, the program displays the winner on the screen.
 
 An Example output is shown below, 
 ```
